@@ -63,10 +63,10 @@ Indicates the age of respondent of the survey question. it has outliers that was
 
 
 
-![](./images/Agebox.png)
+![](../images/Agebox.png)
 
 
-![](./images/Ageviolin.png)
+![](../images/Ageviolin.png)
 
 
 #### Gender
@@ -76,7 +76,7 @@ Indicates the sex of respondent of the survey question. it was categorize into t
 1. Female category with 19.94% occurance
 1. Others 1.03%
 
-![](./images/gender.png)
+![](../images/gender.png)
 
 
 #### Country
@@ -88,7 +88,7 @@ Indicates the different country of the worker surveyed. The report shows that mo
 1. Germany 3.57% and value count of 45
 1. Ireland and Netherland 2.14% and value count of 27
 
-![](./images/Country.png)
+![](../images/Country.png)
 
 
 #### state
@@ -100,7 +100,7 @@ It indicates If you live in the United States, which state or territory do you l
 1. TN-Tennessee with 6.04% respondent
 1. TX- Texas with 5.91% respondennt
 
-![](./images/state.png)
+![](../images/state.png)
 
 
 #### self_employed
@@ -108,7 +108,7 @@ It indicates the number of surveyed tech workers who Are self-employed or not, i
 1. No 88.24% repondent are not self-employed and value count of 1095
 1. Yes 11.76% repondent are self-employed and value count of 146
 
-![](./images/self_employed.png)
+![](../images/self_employed.png)
 
 #### family_history
 
@@ -116,7 +116,7 @@ Indicates if respondent have a family history of mental illness, it has two uniq
 1. No  respondent is 60.92%
 1. Yes respondent is 39.08%
 
-![](./images/family_history.png)
+![](../images/family_history.png)
 
 
 #### treatment
@@ -126,7 +126,7 @@ Indicates if respondent have sought treatment for a mental health condition, it 
 1. No respondent is 50.60% and value count of 622
 
 
-![](./images/treatment.png)
+![](../images/treatment.png)
 
 #### work_interfere
 
@@ -136,7 +136,7 @@ indicates If a worker with mental health condition, do you feel that it interfer
 1. Rarely 17.39% of tech workers thicks it interfers with work.
 1. Often 14.47% of tech workers thicks it interfers with work.
 
-![](./images/work_interferance.png)
+![](../images/work_interferance.png)
 
 
 #### no_employees
@@ -149,7 +149,7 @@ Indicates the range of employees in tech company or organization. it has 6 uniqu
 1. 1-5 respondent is 12.87% and value count of 162
 1. 500-1000 respondent is 4.77% and value count of 60
 
-![](./images/no_employees.png)
+![](../images/no_employees.png)
 
 
 #### remote_work
@@ -158,7 +158,7 @@ indicates number of workers that do work remotely (outside of an office) at leas
 1. No 70.14% donot work remotely
 1. Yes 29.86% work remotely
 
-![](./images/remote_work.png)
+![](../images/remote_work.png)
 
 
 #### tech_company
@@ -167,7 +167,7 @@ indicates if respondent employer primarily a tech company/organization. it has t
 1. Yes 81.89% respondent and value count of 1031 is Tech company
 1. No 18.11% respondent and value count of 228 is not Tech company
 
-![](./images/tech_company.png)
+![](../images/tech_company.png)
 
 
 #### benefits
@@ -177,7 +177,7 @@ indicates if employer provide mental health benefits,it has three unque value wi
 1. Don't know 32.41% respondent are not aware of mental health benefits
 1. No 29.7% respondent are not provided with mental health benefits
 
-![](./images/benefits.png)
+![](../images/benefits.png)
 
 
 #### care_options
@@ -187,7 +187,7 @@ indicates if employee know the options for mental health care your employer prov
 1. Yes 35.27% respondent and value count of 444 know the options for mental health care employer provides        
 1. Not sure 24.94% respondent and value count of 314 are not sure the options for mental health care employer provides 
 
-![](./images/care_options.png)
+![](../images/care_options.png)
 
 
 ####  wellness_program 
@@ -197,7 +197,7 @@ indicates if employer ever discussed mental health as part of an employee wellne
 1. Yes 18.19% respondent empolyers discuss mental health as part of an employee wellness program
 1. Don't know 14.93% are not sure if employers do or not.
 
-![](./images/wellness_program.png)
+![](../images/wellness_program.png)
 
 
 ####  seek_help 
@@ -207,7 +207,7 @@ indicates if employer provide resources to learn more about mental health issues
 1. Don't know 51.31% and value count of 363 respondent are not aware if employer donot provide resources to learn more about mental health issues and how to seek help       
 1. Yes 51.31% and value count of 250 respondent employer provide resources to learn more about mental health issues and how to seek help            
 
-![](./images/seek_help.png)
+![](../images/seek_help.png)
 
 
 ####  anonymity
@@ -218,7 +218,7 @@ indicates if anonymity of worker surveyed, is protected if you choose to take ad
 1. No 5.16% respondent think their anonymity is not protected.
 
 
-![](./images/anonymity.png)
+![](../images/anonymity.png)
 
 ####  leave
 
@@ -229,7 +229,7 @@ indicates how easy is it for a worker to take medical leave for a mental health 
 1. Somewhat difficult 10.01% respondent and value count of 126
 1. Very difficult 7.78% respondent and value count of 98
 
-![](./images/leave.png)
+![](../images/leave.png)
 
 
 ####  mental_health_ consequence
@@ -239,7 +239,7 @@ indicates employees who think that discussing a mental health issue with your em
 1. Maybe 37.89% respondent think it may or may not have negative consequences. 
 1. Yes 23.19% respondent are sure that discussing a mental health issue with your employer would have negative consequences..
 
- ![](./images/mental_health_consequence.png)          
+ ![](../images/mental_health_consequence.png)          
 
 
 ####  phys_health_consequence
@@ -249,7 +249,7 @@ indicates employees who think that discussing physical health issue  with your e
 1. Maybe 21.68% respondent and value count of 273.
 1. Yes 4.85% respondent and value count of 61
            
-![](./images/phys_health_consequence.png)  
+![](../images/phys_health_consequence.png)  
 
 
 ####  coworkers
@@ -259,7 +259,7 @@ indicates the number of employees who Would  be willing to discuss a mental heal
 1. No 20.65% respondent Would not be willing to discuss a mental health issue with coworkers. 
 1. Yes 17.87% respondent Would be willing to discuss a mental health issue with coworkers.
 
-![](./images/coworkers.png)           
+![](../images/coworkers.png)           
 
 
 ####  supervisor
@@ -269,7 +269,7 @@ indicates the number of employees who would be willing to discuss a mental healt
 1. No 31.22% respondent and value count of 393
 1. Some of the 27.8% respondent and value count of 350          
 
-![](./images/supervisor.png) 
+![](../images/supervisor.png) 
 
 
 ####  mental_health_interview
@@ -279,7 +279,7 @@ indicates the number of employees who would bring up a mental health issue with 
 1. Maybe 16.44% respondent may or maynot bring up a mental health issue with a potential employer in an interview. 
 1. Yes 3.49% respondent would bring up a mental health issue with a potential employer in an interview.
 
- ![](./images/mental_health_interview.png)          
+ ![](../images/mental_health_interview.png)          
 
 
 ####  phys_health_interview
@@ -289,7 +289,7 @@ indicates the number of employees who would bring up a physical health issue  wi
 1. No 39.71% respondent and value count 500
 1. Yes 16.04% respondent and value count 202
 
-![](./images/phys_health_interview.png)            
+![](../images/phys_health_interview.png)            
 
 
 ####  mental_vs_physical
@@ -299,7 +299,7 @@ indicates the number of employers who feel that their employer takes mental heal
 1. Yes 27.24% respondent are sure employer takes mental health as seriously as physical health. 
 1. No 27.01% respondent employee does not take mental health as seriously as physical health.
 
- ![](./images/mental_vs_physical.png)           
+ ![](../images/mental_vs_physical.png)           
 
 
 ####  obs_consequence
@@ -308,7 +308,7 @@ indicates if an employees has heard of or observed negative consequences for cow
 1. No 85.39% respondent and value count 1075
 1. Yes 14.62% respondent and value count 184
 
-  ![](./images/obs_consequence.png)         
+  ![](../images/obs_consequence.png)         
 
 
 
