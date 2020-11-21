@@ -6,7 +6,7 @@ This data is from Open Source Mental Illness (OSMI) using survey data from years
 
 The raw data was processed using Python, SQL and Excel for cleaning and manipulation.
 
-Steps involved in cleaning were
+Steps involved in cleaning were:
 
 Similar questions were group together
 Values for answers were made consistent (ie 1 == 1.0)
